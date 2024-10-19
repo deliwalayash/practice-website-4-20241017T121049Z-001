@@ -680,3 +680,7 @@ hr{
 html{
   scroll-behavior: smooth;
 }
+
+.menu-icon{
+  display: none;
+}
