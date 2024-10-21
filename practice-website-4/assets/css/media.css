@@ -305,6 +305,23 @@
         font-size: 50px;
         text-align: center;
     }
+
+.search-img{
+    height: 150px;
+        width: 150px;
+        align-items: center;
+
+}
+
+    .visitor-img{
+        height: 150px;
+        width: 150px;
+        bottom: 0;
+    }
+
+    .get-start{
+        padding: 10px 80px;
+    }
 }
 
 @media (max-width:768px) {

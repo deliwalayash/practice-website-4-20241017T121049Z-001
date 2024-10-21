@@ -86,7 +86,7 @@
 .main-header {
   padding: 22px;
   background-color: #ffffff;
-  background-image: linear-gradient(to right, #d7efdc, white);
+  background-image: linear-gradient(to right, #edf4ef, white);
   border-bottom: 1px solid rgba(0, 0, 0, 0.277);
 }
 
@@ -151,7 +151,7 @@
 }
 
 .main-banner {
-  background-image: linear-gradient(to right, #e5f4e8, white);
+  background-image: linear-gradient(to right, #edf3ee, white);
   padding-bottom: 150px;
 }
 
@@ -232,7 +232,6 @@
 }
 
 .visitor-img {
-  z-index: 0;
   position: absolute;
   bottom: 87px;
 
