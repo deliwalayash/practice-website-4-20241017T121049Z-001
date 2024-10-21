@@ -312,3 +312,8 @@
         font-size: 36px;
     }
 }
+@media (max-width:1320px){
+    .top-button{
+        display: none;
+    }
+}
