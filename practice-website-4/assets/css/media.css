@@ -283,6 +283,19 @@
     .cross-1 {
         text-align: center;
     }
+
+    .search-img{
+        display: none;
+    }
+
+    .visitor-img{
+        display: none;
+    }
+
+    .strategy{
+        margin-bottom: 30px;
+        padding: 10px;
+    }
 }
 
 @media (max-width:576px) {
@@ -296,6 +309,14 @@
 @media (max-width:768px) {
     .right-menu p {
         display: none;
+    }
+
+    .flex-column{
+        flex-direction: column;
+    }
+
+    .strategy{
+        padding: 30px;
     }
 }
 
@@ -320,7 +341,11 @@
     }
 
     .get-start{
-        padding: 10px 80px;
+        padding: 13px 100px;
+    }
+
+    .ser-content{
+        margin-bottom: 30px;
     }
 }
 
